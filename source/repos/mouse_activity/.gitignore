@@ -1,0 +1,25 @@
+# Kullanıcı dizinindeki sistem dosyalarını hariç tut
+.gitconfig
+.VirtualBox/
+.vs/
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.DAT*
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+
+# Diğer geçici dosyaları hariç tut
+*.log
+*.tmp
+*.blf
+*.regtrans-ms
+*.vsidx
