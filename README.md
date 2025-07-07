@@ -47,9 +47,6 @@ km-stat-fake-detection/
 │   └── fake/
 │       └── profile_guid=*/*.csv            # Scripted/fake mouse activity
 │
-├── unused/
-│   └── 20250416/
-│       └── km_stat_acer_20250416_processed.csv  # Unseen real test set
 │
 ├── main.cpp                                # Mouse activity recorder (C++)
 ├── README.md
